@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MrNyce
+- 👀 I’m interested in front-end develpment, UX, and full-stack development
+- 🌱 I’m currently learning HTML, CSS, and Javascript. I have some background knowledge in Python and I know SQL
+- 💞️ I’m looking to collaborate on whatever will help me grow in knowledge & experience (small projects first)
